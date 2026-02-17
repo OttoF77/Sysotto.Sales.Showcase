@@ -1,0 +1,32 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build
+bin/
+obj/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# Tests
+TestResults/
+coverage/
+
+# Environment
+.env
+.env.local
+*.log
