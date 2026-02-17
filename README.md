@@ -3,7 +3,7 @@
 [![.NET](https://img.shields.io/badge/.NET-10.0-blue?logo=dotnet)](https://dotnet.microsoft.com)  
 [![C#](https://img.shields.io/badge/C%23-14-purple?logo=csharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)  
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-blue?logo=postgresql)](https://www.postgresql.org/)  
-[![License](https://img.shields.io/badge/License-MIT-green)](#)  
+[![License](https://img.shields.io/badge/License-Proprietary-red)](#)  
 
 > **Módulo enterprise de gestão de vendas e pedidos para .NET 10**  
 > 
